@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignments.OOPs
+namespace Assignments.OOPs.Inheritance
 {
     public class Person3
     {
@@ -37,8 +37,8 @@ namespace Assignments.OOPs
     {
         static void Main(string[] args)
         {
-                Principle principle = new Principle(111, "Vishal", 100000, "Pune");
-                principle.Display();
+            Principle principle = new Principle(111, "Vishal", 100000, "Pune");
+            principle.Display();
         }
     }
 }

@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignments.OOPs
+namespace Assignments.OOPs.Inheritance
 {
     public class Shape
     {
