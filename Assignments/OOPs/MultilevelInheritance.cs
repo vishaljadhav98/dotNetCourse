@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Examples
+namespace Assignments.OOPs
 {
     public class Person3
     {

@@ -28,7 +28,7 @@ namespace Assignments.OOPs
     {
         public static void Main(string[] arg)
         {
-            Student emp = new Student(101, "Vishal");
+            Student emp = new Student(101, "Vishal Jadhav");
             emp.Display();
         }
     }
